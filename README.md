@@ -15,22 +15,5 @@ A React Native (Expo) app displaying a photo feed from the Picsum API. Developed
 * Expo
 * JavaScript
 
-## How to Run (Web)
-
-1.  **Install dependencies:**
-    ```bash
-    npm install
-    ```
-    *(Skip if `node_modules` folder already exists, e.g., after `create-expo-app`)*
-
-2.  **Start for web:**
-    ```bash
-    npm run web
-    ```
-    Or:
-    ```bash
-    npx expo start --web
-    ```
-
 ---
 *Project set up in GitHub Codespaces.*
